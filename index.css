@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    font-family: monospace;
+    background-color: rgb(224, 223, 223);
+    color: black;
+    width: 70%;
+    font-size: large;
+}
+#nouns{
+    flex: auto;
+}
+#education{
+    float: left;
+}
